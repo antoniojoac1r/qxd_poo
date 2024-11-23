@@ -1,3 +1,4 @@
+#pragma once
 #include "../fn.hpp"
 
 struct Car {
